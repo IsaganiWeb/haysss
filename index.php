@@ -1,5 +1,5 @@
 <?php 
 
-echo "im good!";
+echo "im not good!";
 
  ?>
